@@ -1,0 +1,21 @@
+apodex/sandbox.py
+  s_767438a35b450f::t_a191b392857a00 265,268,270,272-273
+apodex/tests/test_native.py
+  s_767438a35b450f::t_1e945ae4a2cf3d 204-213,216-217,219-224,227-231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ad06dc84940d361dcee70ba9022c89dc244d86b2",
+  "prompts": {},
+  "sessions": {
+    "s_767438a35b450f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a10f7d-6e8c-7861-bdab-f76fac9757e8",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rishit Sharma <rishitsharmar89@gmail.com>"
+    }
+  }
+}
